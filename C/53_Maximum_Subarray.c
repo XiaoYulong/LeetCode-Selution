@@ -1,5 +1,5 @@
 /*
-shis is a DP problem
+this is a DP problem
 
 定义一下子问题：_maxSubArrayIncludeLastItem(int *nums, int numSize)
 返回以最后一个元素结尾的最大子串和
